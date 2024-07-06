@@ -1,0 +1,36 @@
+body {
+    height: 95vh;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#wrapper {
+    width: 80%;
+    height: 80%;
+    background-color: white;
+    margin: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+#navbar {
+    background-color: rgb(65, 151, 231);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#dropdown-btn {
+    margin: 1vw;
+    border-radius: 6px;
+    background-color: rgb(19, 59, 236);
+    color: white;
+}
+
+#menu {
+    border: 1px solid rgb(9, 89, 236);
+    border-radius: 5px;
+}
